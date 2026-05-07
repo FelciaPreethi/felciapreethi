@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felcia Preethi</h1>
-<h3 align="center">A passionate Full-Stack Developer based in Victoria, BC, Canada</h3>
+<h3 align="center">A passionate Full-Stack Developer based in St.Catharines,ON, Canada</h3>
 
 - 🔭 I’m currently working on [Grand Haven](https://github.com/FelciaPreethi/grand-haven)
 
